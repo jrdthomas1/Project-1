@@ -26,9 +26,9 @@ The COVID-19 pandemic was a major public health crisis that began in 2020. It sh
 Our project focuses on the pandemic's economic impact in five states: California, Florida, Texas, Washington and New York. We chose these states based on their differing approaches to public health policy during the first year of the pandemic.
 
 #### California
-  Stay at home ordered: 03/19/20. Never officially lifted the order.
-  Banned all public gatherings
-  Face coverings required in public
+  - Stay at home ordered: 03/19/20. Never officially lifted the order.
+  - Banned all public gatherings
+  - Face coverings required in public
 
 #### Florida
 
