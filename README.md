@@ -26,12 +26,16 @@ The COVID-19 pandemic was a major public health crisis that began in 2020. It sh
 Our project focuses on the pandemic's economic impact in five states: California, Florida, Texas, Washington and New York. We chose these states based on their differing approaches to public health policy during the first year of the pandemic.
 
 #### California
-  - Stay at home ordered: 03/19/20. Never officially lifted the order.
-  - Banned all public gatherings
-  - Face coverings required in public
+  - Stay at home ordered: 03/19/20. Lifted 01/25/21. Total number of days: 312 days
+  - Banned all public gatherings. Lifted 04/15/21 based on tier system.
+  - Face coverings required in public. Lifted 03/01/22 under certain circumstances; still required in places like public tranist, health care settings, etc.
+  - 
 
 #### Florida
-
+  - Stay at home ordered: 04/03/20. Lifted 04/30/20, though some counties opened a couple of weeks later. Total number of days: 27 days.
+  - Banned public gatherings that had 10 or more people. Lifted ____.
+  - Face coverings never required.
+  - 
 
 #### New York
 
