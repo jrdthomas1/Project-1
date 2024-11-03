@@ -56,10 +56,13 @@ Our project focuses on the pandemic's economic impact in the years of 2020-2023 
 
 ## Research Questions
 
-Our main question centers on whether the states with less COVID-19 restrictions (Florida and Texas) have better economic outcomes than the states with the stricter measures (California, New York, Washington). We will review GDP and unemployment.
+Our main question centers on whether the states with less COVID-19 restrictions (Florida and Texas) have better economic outcomes than the states with the stricter measures (California, New York, Washington). We will review GDP, unemployment, and per capital Personal Income.
   - How was GDP in these states affected through the years of 2020-2023? Did Florida and Texas perform better?
   - What were the unemployment patterns for these states during these years? Did Florida and Texas perform better in this metric?
   - Is there a relationship between GDP and Unemployment in these states?
-  - How Personal Income Per Capita change significantly during these years?
+  - How did the pandemic affect Personal Income per capita in these states? Was there a notable difference?
+
+## Data Sources
+We sourced our data from the Bureau of Labor Statistics and Department of Commerce's Bureau of Economic Analysis.
 
 ## Limitations
