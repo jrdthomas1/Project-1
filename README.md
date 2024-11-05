@@ -66,3 +66,4 @@ Our main question centers on whether the states with less COVID-19 restrictions 
 We sourced our data from the Bureau of Labor Statistics and Department of Commerce's Bureau of Economic Analysis.
 
 ## Limitations
+This analysis only examines three variables related to the economy. We did not consider other factors such as inflation, poverty rate, etc, which are all very important factors when determining the economic health of a region.
