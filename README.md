@@ -63,7 +63,7 @@ Our main question centers on whether the states with less COVID-19 restrictions 
   - How did the pandemic affect Personal Income per capita in these states? Was there a notable difference?
 
 ## Data Sources
-We sourced our data from the Bureau of Labor Statistics and Department of Commerce's Bureau of Economic Analysis.
+We sourced our data from the Bureau of Labor Statistics, Department of Commerce's Bureau of Economic Analysis, The U.S Census Bureau.
 
 ## Limitations
 This analysis only examines three variables related to the economy. We did not consider other factors such as inflation, poverty rate, etc, which are all very important factors when determining the economic health of a region.
